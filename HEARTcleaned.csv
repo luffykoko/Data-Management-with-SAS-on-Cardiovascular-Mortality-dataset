@@ -1,0 +1,300 @@
+﻿age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,time,DEATH_EVENT,Gender,anaemic_presence,diabetes_presence,hypertension,smoker_label,patient_death,log_creatinine_phosphokinase,log_serum_creatinine,log_platelets,EF_indicator,SC_indicator,CPK_indicator,Age_group,EF_indicator1,EF_indicator2,EF_indicator3,EF_indicator4,SC_indicator1,SC_indicator2,SC_indicator3,CPK_indicator1,CPK_indicator2,CPK_indicator3,Age_group1,Age_group2,Age_group3,Age_group4,Age_group5
+75,0,582,0,20,1,265000,1.9,130,1,0,4,1,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,6.3664704477,0.6418538862,12.487485105,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+55,0,7861,0,38,0,263358.03,1.1,136,1,0,6,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,8.9696691038,0.0953101798,12.481269716,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,146,0,20,0,162000,1.3,129,1,1,7,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,4.9836066217,0.2623642645,11.995351614,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+50,1,111,0,20,0,210000,1.9,137,1,0,7,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,4.7095302013,0.6418538862,12.25486281,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+65,1,160,1,20,0,327000,2.7,116,0,0,8,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,5.0751738152,0.993251773,12.69771545,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+90,1,47,0,40,1,204000,2.1,132,1,1,8,1,Female,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,3.8501476017,0.7419373447,12.225875273,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+75,1,246,0,15,0,127000,1.2,137,1,0,10,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.5053315359,0.1823215568,11.751942365,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,315,1,60,0,454000,1.1,131,1,1,10,1,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Deceased,5.7525726388,0.0953101798,13.025852477,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+65,0,157,0,65,0,263358.03,1.5,138,0,0,10,1,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.0562458053,0.4054651081,12.481269716,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+80,1,123,0,35,1,388000,9.4,133,1,1,10,1,Female,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,4.8121843554,2.2407096893,12.868760619,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+75,1,81,0,38,1,368000,4,131,1,1,10,1,Female,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,4.3944491547,1.3862943611,12.815838217,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+62,0,231,0,25,1,253000,0.9,140,1,1,10,1,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Deceased,5.4424177105,-0.105360516,12.441144768,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,1,981,0,30,0,136000,1.1,137,1,0,11,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.8885724596,0.0953101798,11.820410165,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+50,1,168,0,38.054237288,1,276000,1.1,137,1,0,11,1,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,5.1239639794,0.0953101798,12.528156145,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+49,1,80,0,30,1,427000,1,138,0,0,12,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.3820266347,0,12.964539292,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+82,1,379,0,50,0,47000,1.3,136,1,0,13,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.9375362051,0.2623642645,10.757902881,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+87,1,149,0,38,0,262000,0.9,140,1,0,14,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.0039463059,-0.105360516,12.476099783,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,0,582,0,14,0,166000,0.8,127,1,0,14,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,-0.223143551,12.019743067,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+70,1,125,0,25,1,237000,1.3928282828,140,0,0,15,1,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,4.8283137373,0.3313364157,12.37581542,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+48,1,582,1,55,0,87000,1.9,121,0,0,15,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,0.6418538862,11.373663398,Normal,High,Elevated,Adult,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+65,1,52,0,25,1,276000,1.3,137,0,0,16,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,3.9512437186,0.2623642645,12.528156145,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+65,1,128,0,30,1,297000,1.6,136,0,0,20,1,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,4.8520302639,0.4700036292,12.601487418,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+68,1,220,0,35,1,289000,0.9,140,1,1,20,1,Female,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,5.3936275464,-0.105360516,12.574181967,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+53,0,63,1,60,0,368000,0.8,135,1,0,22,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.1431347264,-0.223143551,12.815838217,Normal,Low,Normal,Adult,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+75,0,582,1,30,1,263358.03,1.83,134,0,0,23,1,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,6.3664704477,0.6043159669,12.481269716,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+80,0,148,1,38,0,149000,1.9,144,1,1,23,1,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Deceased,4.9972122738,0.6418538862,11.911701585,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+95,1,112,0,40,1,196000,1,138,0,0,24,1,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,4.7184988713,0,12.185869938,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+70,0,122,1,45,1,284000,1.3,136,1,1,26,1,Female,Not anaemic,Diabetic,Hypertension,Smoker,Deceased,4.8040210447,0.2623642645,12.556729517,Borderline,High,Elevated,Senior,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+58,1,60,0,38,0,153000,5.8,134,1,0,26,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,4.0943445622,1.7578579176,11.9381932,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+82,0,588.99319728,1,30,0,200000,1.2,132,1,1,26,1,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Deceased,6.378414634,0.1823215568,12.206072646,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+94,0,582,1,38,1,263358.03,1.83,134,1,0,27,1,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,6.3664704477,0.6043159669,12.481269716,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+85,0,23,0,45,0,360000,3,132,1,0,28,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,3.1354942159,1.0986122887,12.79385931,Borderline,High,Normal,Senior,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1
+50,1,249,1,35,1,319000,1,128,0,0,28,1,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Deceased,5.5174528965,0,12.672946382,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+50,1,159,1,30,0,302000,1.2,138,0,0,29,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.0689042022,0.1823215568,12.618182296,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,94,1,50,1,188000,1,140,1,0,29,1,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,4.5432947823,0,12.144197242,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+69,0,582,1,35,0,228000,3.5,134,1,0,30,1,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,1.2527629685,12.337100908,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+90,1,60,1,50,0,226000,1,134,1,0,30,1,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,4.0943445622,0,12.328290278,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+82,1,855,1,50,1,321000,1,145,1,0,30,1,Female,Anaemic,Diabetic,Hypertension,Non-smoker,Deceased,6.7511014689,0,12.679196402,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+60,0,2656,1,30,0,305000,2.3,137,1,0,30,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,7.8845765106,0.8329091229,12.628067056,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+60,0,235,1,38,0,329000,3,142,0,0,30,1,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,5.4595855141,1.0986122887,12.70381303,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+70,0,582,0,20,1,263358.03,1.83,134,1,1,31,1,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Deceased,6.3664704477,0.6043159669,12.481269716,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+50,0,124,1,30,1,153000,1.2,136,0,1,32,1,Male,Not anaemic,Diabetic,Hypertension,Smoker,Deceased,4.8202815656,0.1823215568,11.9381932,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+70,0,571,1,45,1,185000,1.2,139,1,1,33,1,Female,Not anaemic,Diabetic,Hypertension,Smoker,Deceased,6.3473892097,0.1823215568,12.128111104,Borderline,Normal,Elevated,Senior,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+72,0,127,1,50,1,218000,1,134,1,0,33,0,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.8441870865,0,12.292250342,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,588,1,60,0,194000,1.1,142,0,0,33,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,6.3767269479,0.0953101798,12.175613438,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+50,0,582,1,38,0,310000,1.9,135,1,1,35,1,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Deceased,6.3664704477,0.6418538862,12.644327576,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+51,0,1380,0,25,1,271000,0.9,130,1,0,38,1,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,7.2298387782,-0.105360516,12.5098741,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60,0,582,1,38,1,451000,0.6,138,1,1,40,1,Female,Not anaemic,Diabetic,Hypertension,Smoker,Deceased,6.3664704477,-0.510825624,13.019222618,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+80,1,553,0,20,1,140000,4.4,133,1,0,41,1,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,6.3153580015,1.4816045409,11.849397702,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+57,1,129,0,30,0,262914.7903,1,136.625,0,0,42,1,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,4.8598124044,0,12.479585267,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+68,1,577,0,25,1,166000,1,138,1,0,43,1,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,6.3578422665,0,12.019743067,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+53,1,91,0,20,1,418000,1.4,139,0,0,43,1,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,4.5108595065,0.3364722366,12.943236712,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+60,0,3964,1,62,0,263358.03,6.8,146,0,0,43,1,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,8.2850088954,1.9169226122,12.481269716,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+70,1,69,1,50,1,351000,1,134,0,0,44,1,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Deceased,4.2341065046,0,12.768541502,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+60,1,260,1,38,0,255000,2.2,132,0,1,45,1,Male,Anaemic,Diabetic,Non-hypertension,Smoker,Deceased,5.560681631,0.7884573604,12.449018824,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+95,1,371,0,30,0,461000,2,132,1,0,50,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.9162020626,0.6931471806,13.041153322,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+70,1,75,0,35,0,223000,2.7,138,1,1,54,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.3174881135,0.993251773,12.31492705,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+60,1,607,0,40,0,216000,0.6,138,1,1,54,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.4085287911,-0.510825624,12.283033687,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+49,0,789,0,20,1,319000,1.1,136,1,1,55,1,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Deceased,6.6707663208,0.0953101798,12.672946382,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+72,0,588.99319728,1,20,1,254000,1.3,136,1,1,59,1,Female,Not anaemic,Diabetic,Hypertension,Smoker,Deceased,6.378414634,0.2623642645,12.445089546,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+45,0,7702,1,38.054237288,1,390000,1,139,1,0,60,1,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,8.9492353144,0,12.873902018,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+50,0,318,0,40,1,216000,2.3,131,0,0,60,1,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,5.7620513828,0.8329091229,12.283033687,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+55,0,109,0,35,0,254000,1.1,139,1,1,60,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.6913478822,0.0953101798,12.445089546,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+45,0,582,0,35,0,385000,1,145,1,0,61,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,0,12.860998613,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+45,0,582,0,80,0,263358.03,1.18,137,0,0,63,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.1655144385,12.481269716,High,Normal,Elevated,Adult,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+60,0,68,0,20,0,119000,2.9,127,1,1,64,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,4.2195077052,1.064710737,11.686878772,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+42,1,250,1,15,0,213000,1.3,136,0,0,65,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,5.5214609179,0.2623642645,12.269047445,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+72,1,110,0,25,0,274000,1,140,1,1,65,1,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,4.7004803658,0,12.520883385,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+70,0,161,0,25,0,244000,1.2,142,0,0,66,1,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.081404365,0.1823215568,12.404923504,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+65,0,113,1,25,0,497000,1.83,135,1,0,67,1,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,4.7273878187,0.6043159669,13.116345305,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+41,0,148,0,40,0,374000,0.8,140,1,1,68,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.9972122738,-0.223143551,12.832011076,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+58,0,582,1,35,0,122000,0.9,139,1,1,71,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,6.3664704477,-0.105360516,11.711776324,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+85,0,5882,0,35,0,243000,1,132,1,1,72,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,8.6796521191,0,12.400816722,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+65,0,224,1,50,0,149000,1.3,137,1,1,72,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,5.4116460519,0.2623642645,11.911701585,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+69,0,582,0,20,0,266000,1.2,134,1,1,73,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,6.3664704477,0.1823215568,12.491251588,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,47,0,20,0,204000,0.7,139,1,1,73,1,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,3.8501476017,-0.356674944,12.225875273,Low,Low,Normal,Senior,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+70,0,92,0,60,1,317000,0.8,140,0,1,74,0,Male,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,4.521788577,-0.223143551,12.666657053,Normal,Low,Normal,Senior,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+42,0,102,1,40,0,237000,1.2,140,1,0,74,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.6249728133,0.1823215568,12.37581542,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+75,1,203,1,38,1,283000,0.6,131,1,1,74,0,Female,Anaemic,Diabetic,Hypertension,Smoker,Survive,5.313205979,-0.510825624,12.553202177,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+55,0,336,0,45,1,324000,0.9,140,0,0,74,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,5.81711116,-0.105360516,12.688498795,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+70,0,69,0,40,0,293000,1.7,136,0,0,75,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.2341065046,0.5306282511,12.587927888,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+67,0,582,0,50,0,263358.03,1.18,137,1,1,76,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.3664704477,0.1655144385,12.481269716,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,76,1,25,0,196000,2.5,132,0,0,77,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,4.3307333403,0.9162907319,12.185869938,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+79,1,55,0,50,1,172000,1.8,133,1,0,78,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.0073331852,0.5877866649,12.055249756,Normal,High,Normal,Senior,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+59,1,280,1,25,1,302000,1,141,0,0,78,1,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Deceased,5.6347896032,0,12.618182296,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+51,0,78,0,50,0,406000,0.7,140,1,0,79,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.3567088267,-0.356674944,12.914108439,Normal,Low,Normal,Adult,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+55,0,47,0,35,1,173000,1.1,137,1,0,79,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,3.8501476017,0.0953101798,12.061046873,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+65,1,68,1,60,1,304000,0.8,140,1,0,79,0,Female,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.2195077052,-0.223143551,12.62478298,Normal,Low,Normal,Senior,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+44,0,84,1,40,1,235000,0.7,139,1,0,79,0,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.4308167988,-0.356674944,12.367340793,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+57,1,115,0,25,1,181000,1.1,144,1,0,79,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.7449321284,0.0953101798,12.10625231,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+70,0,66,1,45,0,249000,0.8,136,1,1,80,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,4.189654742,-0.223143551,12.425208175,Borderline,Low,Normal,Senior,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1
+60,0,897,1,45,0,297000,1,133,1,0,80,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.7990558621,0,12.601487418,Borderline,Normal,Elevated,Senior,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+42,0,582,0,60,0,263358.03,1.18,137,0,0,82,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.1655144385,12.481269716,Normal,Normal,Elevated,Adult,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+60,1,154,0,25,0,210000,1.7,135,1,0,82,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.0369526024,0.5306282511,12.25486281,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+58,0,144,1,38,1,327000,0.7,142,0,0,83,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.9698132996,-0.356674944,12.69771545,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+58,1,133,0,60,1,219000,1,141,1,0,83,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.8903491282,0,12.296827009,Normal,Normal,Elevated,Adult,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+63,1,514,1,25,1,254000,1.3,134,1,0,83,0,Female,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.2422232655,0.2623642645,12.445089546,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+70,1,59,0,60,0,255000,1.1,136,0,0,85,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.0775374439,0.0953101798,12.449018824,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+60,1,588.99319728,1,25,1,318000,1.2,137,0,0,85,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.378414634,0.1823215568,12.669806662,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+63,1,61,1,40,0,221000,1.1,140,0,0,86,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.1108738642,0.0953101798,12.30591798,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+65,1,305,0,25,0,298000,1.1,141,1,0,87,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.7203117766,0.0953101798,12.604848765,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+75,0,582,0,45,1,263358.03,1.18,137,1,0,87,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.3664704477,0.1655144385,12.481269716,Borderline,Normal,Elevated,Senior,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+80,0,898,0,25,0,149000,1.1,144,1,1,87,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.8001700683,0.0953101798,11.911701585,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+42,0,5209,0,30,0,226000,1,140,1,1,87,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,8.5581431777,0,12.328290278,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60,0,53,0,50,1,286000,2.3,143,0,0,87,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,3.9702919136,0.8329091229,12.56374709,Normal,High,Normal,Senior,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+72,1,328,0,30,1,621000,1.7,138,0,1,88,1,Male,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,5.7930136084,0.5306282511,13.339086361,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+55,0,748,0,45,0,263000,1.3,137,1,0,88,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.617402978,0.2623642645,12.479909311,Borderline,High,Elevated,Adult,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+45,1,1876,1,35,0,226000,0.9,138,1,0,88,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,7.5368971296,-0.105360516,12.328290278,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+63,0,936,0,38,0,304000,1.1,133,1,1,88,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.8416154765,0.0953101798,12.62478298,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,0,292,1,35,0,850000,1.3,142,1,1,88,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,5.6767538023,0.2623642645,13.652991628,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+85,0,129,0,60,0,306000,1.2,132,1,1,90,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,4.8598124044,0.1823215568,12.631340381,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+55,0,60,0,35,0,228000,1.2,135,1,1,90,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.0943445622,0.1823215568,12.337100908,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+50,0,369,1,25,0,252000,1.6,136,1,0,90,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.910796644,0.4700036292,12.437184366,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+70,1,143,0,60,0,351000,1.3,137,0,0,90,1,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,4.9628446303,0.2623642645,12.768541502,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+60,1,754,1,40,1,328000,1.2,126,1,0,91,0,Female,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.625392368,0.1823215568,12.700768887,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+58,1,400,0,40,0,164000,1,139,0,0,91,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.9914645471,0,12.007621707,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60,1,96,1,60,1,271000,0.7,136,0,0,94,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.5643481915,-0.356674944,12.5098741,Normal,Low,Normal,Senior,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+85,1,102,0,60,0,507000,3.2,138,0,0,94,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.6249728133,1.1631508098,13.136266283,Normal,High,Normal,Senior,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+65,1,588.99319728,1,60,1,203000,0.9,140,0,0,94,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.378414634,-0.105360516,12.220961258,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+86,0,582,0,38,0,262914.7903,1.83,134,0,0,95,1,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,0.6043159669,12.479585267,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+60,1,737,0,60,1,210000,1.5,135,1,1,95,0,Female,Anaemic,Non diabetic,Hypertension,Smoker,Survive,6.6025878922,0.4054651081,12.25486281,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+66,1,68,1,38,1,162000,1,136,0,0,95,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.2195077052,0,11.995351614,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+60,0,96,1,38,0,228000,0.75,140,0,0,95,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.5643481915,-0.287682072,12.337100908,Low,Low,Normal,Senior,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+60,1,582,0,30,1,127000,0.9,145,0,0,95,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.3664704477,-0.105360516,11.751942365,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,0,582,0,40,0,217000,3.7,134,1,0,96,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,1.3083328197,12.287652633,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+43,1,358,0,50,0,237000,1.3,135,0,0,97,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.8805329864,0.2623642645,12.37581542,Normal,High,Elevated,Adult,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+46,0,168,1,17,1,271000,2.1,124,0,0,100,1,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,5.1239639794,0.7419373447,12.5098741,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+58,1,200,1,60,0,300000,0.8,137,0,0,104,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.2983173665,-0.223143551,12.611537754,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+61,0,248,0,30,1,267000,0.7,136,1,1,104,0,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,5.5134287462,-0.356674944,12.495003937,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+53,1,270,1,35,0,227000,3.4,145,1,0,105,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.598421959,1.2237754316,12.332705296,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+53,1,1808,0,60,1,249000,0.7,138,1,1,106,0,Female,Anaemic,Non diabetic,Hypertension,Smoker,Survive,7.499976541,-0.356674944,12.425208175,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+60,1,1082,1,45,0,250000,6.1,131,1,0,107,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.9865664594,1.8082887712,12.429216197,Borderline,High,Elevated,Senior,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+46,0,719,0,40,1,263358.03,1.18,137,0,0,107,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.5778613577,0.1655144385,12.481269716,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+63,0,193,0,60,1,295000,1.3,145,1,1,107,0,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,5.2626901889,0.2623642645,12.594730635,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+81,0,4540,0,35,0,231000,1.18,137,1,1,107,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,8.420682291,0.1655144385,12.35017299,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+75,0,582,0,40,0,263358.03,1.18,137,1,0,107,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.1655144385,12.481269716,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+65,1,59,1,60,0,172000,0.9,137,0,0,107,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.0775374439,-0.105360516,12.055249756,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+68,1,646,0,25,0,305000,2.1,130,1,0,108,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.4707995038,0.7419373447,12.628067056,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+62,0,281,1,35,0,221000,1,136,0,0,108,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.6383546693,0,12.30591798,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,0,1548,0,30,1,211000,0.8,138,1,0,108,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.3447190541,-0.223143551,12.259613412,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+80,0,805,0,38,0,263358.03,1.1,134,1,0,109,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.6908422774,0.0953101798,12.481269716,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+46,1,291,0,35,0,348000,0.9,140,0,0,109,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.6733232672,-0.105360516,12.759957759,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+50,0,482,1,30,0,329000,0.9,132,0,0,109,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.1779441141,-0.105360516,12.70381303,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+61,1,84,0,40,1,229000,0.9,141,0,0,110,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.4308167988,-0.105360516,12.341477283,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+72,1,943,0,25,1,338000,1.7,139,1,1,111,1,Female,Anaemic,Non diabetic,Hypertension,Smoker,Deceased,6.8490662826,0.5306282511,12.730801174,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+50,0,185,0,30,0,266000,0.7,141,1,1,112,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.2203558251,-0.356674944,12.491251588,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+52,0,132,0,30,0,218000,0.7,136,1,1,112,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.8828019226,-0.356674944,12.292250342,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+64,0,1610,0,60,0,242000,1,137,1,0,113,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,7.383989458,0,12.396693005,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+75,1,582,0,30,0,225000,1.83,134,1,0,113,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,0.6043159669,12.323855681,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+60,0,2261,0,35,1,228000,0.9,136,1,0,115,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.7235624723,-0.105360516,12.337100908,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+72,0,233,0,45,1,235000,2.5,135,0,0,115,1,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,5.4510384536,0.9162907319,12.367340793,Borderline,High,Elevated,Senior,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+62,0,30,1,60,1,244000,0.9,139,1,0,117,0,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,3.4011973817,-0.105360516,12.404923504,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+50,0,115,0,45,1,184000,0.9,134,1,1,118,0,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,4.7449321284,-0.105360516,12.122691037,Borderline,Normal,Normal,Adult,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+50,0,1846,1,35,0,263358.03,1.18,137,1,1,119,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,7.5207764151,0.1655144385,12.481269716,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,1,335,0,35,1,235000,0.8,136,0,0,120,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,5.8141305318,-0.223143551,12.367340793,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+60,1,231,1,25,0,194000,1.7,140,1,0,120,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.4424177105,0.5306282511,12.175613438,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+52,1,58,0,35,0,277000,1.4,136,0,0,120,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.0604430105,0.3364722366,12.531772785,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+50,0,250,0,25,0,262000,1,136,1,1,120,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.5214609179,0,12.476099783,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+85,1,910,0,50,0,235000,1.3,134,1,0,121,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.8134445995,0.2623642645,12.367340793,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+59,1,129,0,45,1,362000,1.1,139,1,1,121,0,Female,Anaemic,Non diabetic,Hypertension,Smoker,Survive,4.8598124044,0.0953101798,12.799399491,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+66,1,72,0,40,1,242000,1.2,134,1,0,121,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.276666119,0.1823215568,12.396693005,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+45,1,130,0,35,0,174000,0.8,139,1,1,121,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.8675344505,-0.223143551,12.066810578,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+63,1,582,0,40,0,448000,0.9,137,1,1,123,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.3664704477,-0.105360516,13.012548511,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,1,2334,1,35,0,75000,0.9,142,0,0,126,1,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,7.7553388128,-0.105360516,11.225243393,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+45,0,2442,1,30,0,334000,1.1,139,1,0,129,1,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,7.8005726547,0.0953101798,12.718896272,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+80,0,776,1,38,1,192000,1.3,135,0,0,130,1,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Deceased,6.6541525202,0.2623642645,12.165250651,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+53,0,196,0,60,0,220000,0.7,133,1,1,134,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.2781146592,-0.356674944,12.301382825,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+59,0,66,1,20,0,70000,2.4,134,1,0,135,1,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,4.189654742,0.8754687374,11.156250521,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+65,0,582,1,40,0,270000,1,138,0,0,140,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0,12.506177238,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+70,0,835,0,35,1,305000,0.8,133,0,0,145,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.7274317249,-0.223143551,12.628067056,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+51,1,582,1,35,0,263358.03,1.5,136,1,1,145,0,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Survive,6.3664704477,0.4054651081,12.481269716,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+52,0,3966,0,40,0,325000,0.9,140,1,1,146,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,8.2855133091,-0.105360516,12.691580461,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+70,1,171,0,60,1,176000,1.1,145,1,1,146,0,Female,Anaemic,Non diabetic,Hypertension,Smoker,Survive,5.1416635565,0.0953101798,12.078239274,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+50,1,115,0,20,0,189000,0.8,139,1,0,146,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.7449321284,-0.223143551,12.149502294,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+65,0,198,1,35,1,281000,0.9,137,1,1,146,0,Female,Not anaemic,Diabetic,Hypertension,Smoker,Survive,5.2882670307,-0.105360516,12.546109948,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,95,0,60,0,337000,1,138,1,1,146,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.5538768916,0,12.727838209,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+69,0,1419,0,40,0,105000,1,135,1,1,147,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,7.2577076772,0,11.561715629,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+49,1,69,0,50,0,132000,1,140,0,0,147,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.2341065046,0,11.790557202,Normal,Normal,Normal,Adult,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+63,1,122,1,60,0,267000,1.2,145,1,0,147,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.8040210447,0.1823215568,12.495003937,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+55,0,835,0,40,0,279000,0.7,140,1,1,147,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.7274317249,-0.356674944,12.538967061,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+40,0,478,1,30,0,303000,0.9,136,1,0,148,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.1696107325,-0.105360516,12.621488084,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+59,1,176,1,25,0,221000,1,136,1,1,150,1,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Deceased,5.170483995,0,12.30591798,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,395,1,25,0,265000,1.2,136,1,1,154,1,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Deceased,5.9788857649,0.1823215568,12.487485105,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+75,0,99,0,38,1,224000,2.5,134,1,0,162,1,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,4.5951198501,0.9162907319,12.319401331,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+58,1,145,0,25,0,219000,1.2,137,1,1,170,1,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,4.9767337424,0.1823215568,12.296827009,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60.667,1,104,1,30,0,389000,1.5,136.625,1,0,171,1,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,4.6443908991,0.4054651081,12.871334623,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+50,0,582,0,50,0,153000,0.6,134,0,0,172,1,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,-0.510825624,11.9381932,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+60,0,1896,1,25,0,365000,2.1,144,0,0,172,1,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,7.5475016828,0.7419373447,12.807652633,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+60.667,1,151,1,40,1,201000,1,136,0,0,172,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,5.0172798368,0,12.211060187,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+40,0,244,0,45,1,275000,0.9,140,0,0,174,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,5.4971682253,-0.105360516,12.524526377,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+80,0,582,1,35,0,350000,1.3928282828,134,1,0,174,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.3313364157,12.765688433,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+64,1,62,0,60,0,309000,1.5,135,0,0,174,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.127134385,0.4054651081,12.641096556,Normal,High,Normal,Senior,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+50,1,121,1,40,0,260000,0.7,130,1,0,175,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.7957905456,-0.356674944,12.46843691,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+73,1,231,1,30,0,160000,1.18,142,1,1,180,0,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Survive,5.4424177105,0.1655144385,11.982929094,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,0,582,0,20,1,126000,1.6,135,1,0,180,1,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,6.3664704477,0.4700036292,11.744037186,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+77,1,418,0,45,0,223000,1.8,145,1,0,180,1,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.0354814325,0.5877866649,12.31492705,Borderline,High,Elevated,Senior,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+45,0,582,1,38,1,263358.03,1.18,137,0,0,185,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.3664704477,0.1655144385,12.481269716,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,167,0,30,0,259000,0.8,138,0,0,186,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.1179938124,-0.223143551,12.464583341,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+50,1,582,1,20,1,279000,1,134,0,0,186,0,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.3664704477,0,12.538967061,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60,0,1211,1,35,0,263358.03,1.8,113,1,1,186,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,7.0992017436,0.5877866649,12.481269716,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+63,1,1767,0,45,0,73000,0.7,137,1,0,186,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,7.4770384723,-0.356674944,11.19821472,Borderline,Low,Elevated,Senior,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+45,0,308,1,60,1,377000,1,136,1,0,186,0,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,5.730099783,0,12.840000466,Normal,Normal,Elevated,Adult,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+70,0,97,0,38.054237288,1,220000,0.9,138,1,0,186,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.5747109785,-0.105360516,12.301382825,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+60,0,59,0,25,1,212000,3.5,136,1,1,187,0,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,4.0775374439,1.2527629685,12.264341554,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+78,1,64,0,40,0,277000,0.7,137,1,1,187,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.1588830834,-0.356674944,12.531772785,Low,Low,Normal,Senior,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+50,1,167,1,45,0,362000,1,136,0,0,187,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.1179938124,0,12.799399491,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+40,1,101,0,40,0,226000,0.8,141,0,0,187,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.6151205168,-0.223143551,12.328290278,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+85,0,212,0,38,0,186000,0.9,136,1,0,187,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.3565862747,-0.105360516,12.133501953,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,1,2281,1,40,0,283000,1,141,0,0,187,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,7.7323692223,0,12.553202177,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+49,0,972,1,35,1,268000,0.8,130,0,0,187,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.8793558045,-0.223143551,12.498742259,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+70,0,212,1,17,1,389000,1,136,1,1,188,0,Female,Not anaemic,Diabetic,Hypertension,Smoker,Survive,5.3565862747,0,12.871334623,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,0,582,0,62,1,147000,0.8,140,1,1,192,0,Female,Not anaemic,Non diabetic,Hypertension,Smoker,Survive,6.3664704477,-0.223143551,11.898187866,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+78,0,224,0,50,0,481000,1.4,138,1,1,192,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.4116460519,0.3364722366,13.083622549,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+48,1,131,1,30,1,244000,1.6,130,0,0,193,1,Male,Anaemic,Diabetic,Hypertension,Non-smoker,Deceased,4.8751973232,0.4700036292,12.404923504,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+65,1,135,0,35,1,290000,0.8,134,1,0,194,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.9052747784,-0.223143551,12.577636202,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+73,0,582,0,35,1,203000,1.3,134,1,0,195,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.3664704477,0.2623642645,12.220961258,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+70,0,1202,0,50,1,358000,0.9,141,0,0,196,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.0917421151,-0.105360516,12.788288265,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+54,1,427,0,70,1,151000,9,137,0,0,196,1,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Deceased,6.0567840132,2.1972245773,11.925035116,Normal,High,Elevated,Adult,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+68,1,1021,1,35,0,271000,1.1,134,1,0,197,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.9285378182,0.0953101798,12.5098741,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+55,0,582,1,35,1,371000,0.7,140,0,0,197,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,6.3664704477,-0.356674944,12.823957342,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+73,0,582,0,20,0,263358.03,1.83,134,1,0,198,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,6.3664704477,0.6043159669,12.481269716,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+65,0,118,0,50,0,194000,1.1,145,1,1,200,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.7706846245,0.0953101798,12.175613438,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+42,1,86,0,35,0,365000,1.1,139,1,1,201,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.4543472963,0.0953101798,12.807652633,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+47,0,582,0,25,0,130000,0.8,134,1,0,201,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,-0.223143551,11.775289729,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+58,0,582,1,25,0,504000,1,138,1,0,205,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0,13.130331547,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+75,0,675,1,60,0,265000,1.4,125,0,0,205,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.5147126909,0.3364722366,12.487485105,Normal,High,Elevated,Senior,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+58,1,57,0,25,0,189000,1.3,132,1,1,205,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.0430512678,0.2623642645,12.149502294,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+55,1,2794,0,35,1,141000,1,140,1,0,206,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.9352295398,0,11.856515169,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,56,0,25,0,237000,5,130,0,0,207,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.0253516907,1.6094379124,12.37581542,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+72,0,211,0,25,0,274000,1.2,134,0,0,207,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.3518581335,0.1823215568,12.520883385,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+60,0,166,0,30,0,62000,1.7,127,0,0,207,1,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,5.1119877884,0.5306282511,11.034889664,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+70,0,93,0,35,0,185000,1.1,134,1,1,208,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.5325994932,0.0953101798,12.128111104,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+40,1,129,0,35,0,255000,0.9,137,1,0,209,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.8598124044,-0.105360516,12.449018824,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+53,1,707,0,38,0,330000,1.4,137,1,1,209,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.5610306659,0.3364722366,12.706847933,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+53,1,582,0,45,0,305000,1.1,137,1,1,209,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.3664704477,0.0953101798,12.628067056,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+77,1,109,0,50,1,406000,1.1,137,1,0,209,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.6913478822,0.0953101798,12.914108439,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+75,0,119,0,50,1,248000,1.1,148,1,0,209,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,4.7791234931,0.0953101798,12.421184025,Normal,Normal,Normal,Senior,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+70,0,232,0,30,0,173000,1.2,132,1,0,210,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.4467373717,0.1823215568,12.061046873,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+65,1,720,1,40,0,257000,1,136,0,0,210,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.579251212,0,12.456831364,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+55,1,180,0,45,0,263358.03,1.18,137,1,1,211,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.1929568509,0.1655144385,12.481269716,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+70,0,81,1,35,1,533000,1.3,139,0,0,212,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.3944491547,0.2623642645,13.186276703,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+65,0,582,1,30,0,249000,1.3,136,1,1,212,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,6.3664704477,0.2623642645,12.425208175,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+40,0,90,0,35,0,255000,1.1,136,1,1,212,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.4998096703,0.0953101798,12.449018824,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+73,1,1185,0,40,1,220000,0.9,141,0,0,213,0,Male,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.0774980536,-0.105360516,12.301382825,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+54,0,582,1,38,0,264000,1.8,134,1,0,213,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.5877866649,12.483704382,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+61,1,80,1,38,0,282000,1.4,137,1,0,213,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.3820266347,0.3364722366,12.54966235,Low,High,Normal,Senior,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+55,0,2017,0,25,0,314000,1.1,138,1,0,129.57575758,1,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Deceased,7.609366538,0.0953101798,12.657148265,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+64,0,143,0,25,0,246000,2.4,135,1,0,214,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.9628446303,0.8754687374,12.413086815,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+40,0,624,0,35,0,301000,1,142,1,1,214,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.4361503684,0,12.614865544,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+53,0,207,1,40,0,223000,1.2,130,0,0,214,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.3327187933,0.1823215568,12.31492705,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+50,0,2522,0,30,1,404000,0.5,139,0,0,214,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,7.8328075165,-0.693147181,12.909170157,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+55,0,572,1,35,0,231000,0.8,143,0,0,215,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3491389914,-0.223143551,12.35017299,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+50,0,245,0,45,1,274000,1,133,1,0,215,0,Female,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,5.5012582105,0,12.520883385,Borderline,Normal,Elevated,Adult,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+70,0,88,1,35,1,236000,1.2,132,0,0,215,0,Male,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.4773368145,0.1823215568,12.371587084,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+53,1,446,0,60,1,263358.03,1,139,1,0,215,0,Female,Anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.100318952,0,12.481269716,Normal,Normal,Elevated,Adult,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+52,1,191,1,30,1,334000,1,142,1,1,216,0,Female,Anaemic,Diabetic,Hypertension,Smoker,Survive,5.252273428,0,12.718896272,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,326,0,38.054237288,0,294000,1.7,139,0,0,220,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.7868973814,0.5306282511,12.591335046,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+58,0,132,1,38,1,253000,1,139,1,0,230,0,Female,Not anaemic,Diabetic,Hypertension,Non-smoker,Survive,4.8828019226,0,12.441144768,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+45,1,66,1,25,0,233000,0.8,135,1,0,230,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.189654742,-0.223143551,12.358793733,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+53,0,56,0,50,0,308000,0.7,135,1,1,231,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.0253516907,-0.356674944,12.637855062,Normal,Low,Normal,Adult,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+55,0,66,0,40,0,203000,1,138,1,0,233,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.189654742,0,12.220961258,Low,Normal,Normal,Adult,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+62,1,655,0,40,0,283000,0.7,133,0,0,233,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.4846352356,-0.356674944,12.553202177,Low,Low,Elevated,Senior,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+65,1,258,1,25,0,198000,1.4,129,1,0,235,1,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Deceased,5.5529595849,0.3364722366,12.19602231,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+68,1,157,1,60,0,208000,1,140,0,0,237,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.0562458053,0,12.245293359,Normal,Normal,Elevated,Senior,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+61,0,582,1,38,0,147000,1.2,141,1,0,237,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.1823215568,11.898187866,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,1,298,0,35,0,362000,0.9,140,1,1,240,0,Female,Anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.6970934865,-0.105360516,12.799399491,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+55,0,1199,0,20,0,263358.03,1.83,136.625,1,1,241,1,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Deceased,7.089243155,0.6043159669,12.481269716,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+56,1,135,1,38,0,133000,1.7,140,1,0,244,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.9052747784,0.5306282511,11.798104407,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+45,0,582,1,38,0,302000,0.9,140,0,0,244,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,-0.105360516,12.618182296,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+40,0,582,1,35,0,222000,1,132,1,0,244,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0,12.310432661,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+44,0,582,1,30,1,263358.03,1.6,130,1,1,244,0,Female,Not anaemic,Diabetic,Hypertension,Smoker,Survive,6.3664704477,0.4700036292,12.481269716,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+51,0,582,1,40,0,221000,0.9,134,0,0,244,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,-0.105360516,12.30591798,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+67,0,213,0,38,0,215000,1.2,133,0,0,245,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.3612921657,0.1823215568,12.278393307,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+42,0,64,0,40,0,189000,0.7,140,1,0,245,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,4.1588830834,-0.356674944,12.149502294,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+60,1,257,1,30,0,150000,1,137,1,1,245,0,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Survive,5.5490760849,0,11.918390573,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,0,582,0,38,1,422000,0.8,137,0,0,245,0,Male,Not anaemic,Non diabetic,Hypertension,Non-smoker,Survive,6.3664704477,-0.223143551,12.952760593,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+70,0,618,0,35,0,327000,1.1,142,0,0,245,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,6.4264884575,0.0953101798,12.69771545,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+70,0,582,1,38,0,25100,1.1,140,1,0,246,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0.0953101798,10.130623125,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,1,1051,1,30,0,232000,0.7,136,0,0,246,0,Male,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.9574973709,-0.356674944,12.354492651,Low,Low,Elevated,Adult,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+55,0,84,1,38,0,451000,1.3,136,0,0,246,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,4.4308167988,0.2623642645,13.019222618,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+70,0,2695,1,40,0,241000,1,137,1,0,247,0,Female,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,7.8991534833,0,12.392552212,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+70,0,582,0,40,0,51000,2.7,136,1,1,250,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,6.3664704477,0.993251773,10.839580912,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+42,0,64,0,30,0,215000,3.8,128,1,1,129.57575758,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,4.1588830834,1.3350010667,12.278393307,Low,High,Normal,Adult,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+65,0,1688,0,38,0,263358.03,1.1,138,1,1,250,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,7.4312996752,0.0953101798,12.481269716,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+50,1,54,0,40,0,279000,0.8,141,1,0,250,0,Female,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,3.9889840466,-0.223143551,12.538967061,Low,Low,Normal,Adult,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+55,1,170,1,40,0,336000,1.2,135,1,0,250,0,Female,Anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,5.1357984371,0.1823215568,12.724866439,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+60,0,253,0,35,0,279000,1.7,140,1,0,250,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.5333894887,0.5306282511,12.538967061,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+45,0,582,1,55,0,543000,1,132,0,0,250,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.3664704477,0,13.204864599,Normal,Normal,Elevated,Adult,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+65,0,892,1,35,0,263358.03,1.1,142,0,0,256,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.7934661326,0.0953101798,12.481269716,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+90,1,337,0,38,0,390000,0.9,144,0,0,256,0,Male,Anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.8200829304,-0.105360516,12.873902018,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+45,0,615,1,55,0,222000,0.8,141,0,0,257,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,6.4216222678,-0.223143551,12.310432661,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+60,0,320,0,35,0,133000,1.4,139,1,0,258,0,Female,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,5.7683209958,0.3364722366,11.798104407,Low,High,Elevated,Senior,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+52,0,190,1,38,0,382000,1,140,1,1,258,0,Female,Not anaemic,Diabetic,Non-hypertension,Smoker,Survive,5.2470240722,0,12.853175888,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+63,1,588.99319728,1,35,0,179000,0.9,136,1,1,270,0,Female,Anaemic,Diabetic,Non-hypertension,Smoker,Survive,6.378414634,-0.105360516,12.095141085,Low,Normal,Elevated,Senior,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+62,0,61,1,38,1,155000,1.1,143,1,1,270,0,Female,Not anaemic,Diabetic,Hypertension,Smoker,Survive,4.1108738642,0.0953101798,11.951180396,Low,Normal,Normal,Senior,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+55,0,1820,0,38,0,270000,1.2,139,0,0,271,0,Male,Not anaemic,Non diabetic,Non-hypertension,Non-smoker,Survive,7.5065917801,0.1823215568,12.506177238,Low,Normal,Elevated,Adult,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+45,0,2060,1,60,0,742000,0.8,138,0,0,278,0,Male,Not anaemic,Diabetic,Non-hypertension,Non-smoker,Survive,7.6304612618,-0.223143551,13.517104522,Normal,Low,Elevated,Adult,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+45,0,2413,0,38,0,140000,1.4,140,1,1,280,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,7.7886260656,0.3364722366,11.849397702,Low,High,Elevated,Adult,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+50,0,196,0,45,0,395000,1.6,136,1,1,285,0,Female,Not anaemic,Non diabetic,Non-hypertension,Smoker,Survive,5.2781146592,0.4700036292,12.886641044,Borderline,High,Elevated,Adult,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
